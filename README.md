@@ -1,5 +1,5 @@
 # Plano_e_roteiro_de_testes
 Repositório para Plano e roteiro de testes 
 
-
-Roteiro de testes: https://docs.google.com/document/d/1KeDqYeiHi4nuGfiTmqZz680YLENTGXvTr4VSb0WrIVI/edit?usp=sharing
+Esse repositório contém um plano de testes e um roteiro de testes do sistema Uninventário. O *plano de testes* está no formato de arquivo .md. 
+Devido ao tamanho e complexidado de *roteiro de testes*, o arquivo está no formato .pdf.
