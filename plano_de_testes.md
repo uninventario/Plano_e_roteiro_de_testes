@@ -69,7 +69,7 @@ os dados da máquina devem ser os seguintes
 - laboratório: "Laboratório 45"
 
 
- ## Cenário 3: Excluir uma máquina
+## Cenário 3: Excluir uma máquina
 
 ### Dado que
 o usuário está na página de detalhes de uma máquina
